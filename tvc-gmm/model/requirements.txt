@@ -1,6 +1,6 @@
 falcon==3.1.0
 g2p-en==2.1.0
-inflect==5.6.2
+inflect==7.5.0
 librosa==0.9.1
 matplotlib==3.5.2
 numpy==1.22.4
