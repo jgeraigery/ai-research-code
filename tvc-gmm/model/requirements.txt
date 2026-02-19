@@ -7,7 +7,7 @@ numpy==1.22.4
 pypinyin==0.47.0
 pyworld==0.2.10
 PyYAML==6.0
-scikit-learn==1.1.1
+scikit-learn==1.8.0
 scipy==1.9.0
 SoundFile==0.10.3.post1
 tgt==1.4.4
