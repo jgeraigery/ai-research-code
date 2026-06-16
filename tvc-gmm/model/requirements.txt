@@ -1,4 +1,4 @@
-falcon==3.1.0
+falcon==4.3.1
 g2p-en==2.1.0
 inflect==5.6.2
 librosa==0.9.1
